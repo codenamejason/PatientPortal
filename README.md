@@ -1,2 +1,2 @@
-# PatientPortal
+# Patient Portal
 Patient Portal Demo
